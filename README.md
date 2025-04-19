@@ -10,8 +10,8 @@
 
 <pre>
 💻 I am developing my skills as a Ethical Hacker/Pentester
-🎯 Preparing for eJPTv2 and CPTS to level up my cybersecurity skills
-🌟 Main languages: Python
+🎯 Preparing for CPTS exam to level up my cybersecurity skills
+🌟 Main languages: Bash Scripting
 🔭 Working on my future YouTube channel
 🌱 Continuously developing my technology and personal skills
 </pre>
